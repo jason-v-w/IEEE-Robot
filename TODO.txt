@@ -1,0 +1,14 @@
+TO PURCHASE:
+  - Webcam
+    + For voice commands
+    + For possible video recording
+  - Header pins
+    + Male and female for prototypic work
+
+TO EXPLORE:
+  - Find out about using the 3D printer
+    + Cost
+    + Process
+    + Getting authorization
+  - What kind of robot should we build
+  - Get wifi access on the pi with the ability to ssh in and out
