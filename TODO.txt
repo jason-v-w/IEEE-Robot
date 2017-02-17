@@ -4,6 +4,8 @@ TO PURCHASE:
     + For possible video recording
   - Header pins
     + Male and female for prototypic work
+  - Bolts and Nuts
+    + Need bolts and nuts for mounting servos
 
 TO EXPLORE:
   - Find out about using the 3D printer
