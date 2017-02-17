@@ -2,3 +2,5 @@ Servo hat documentation
 	https://www.adafruit.com/products/2327
 Example code for using the servo hat
 	https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code
+Servo Base and Elbow Bracket 3D Models
+	http://www.thingiverse.com/thing:444741/#files
