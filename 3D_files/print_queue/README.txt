@@ -1,0 +1,1 @@
+For a first print we should do 1 leg, 2 shoulders, and 2 servo buttons
