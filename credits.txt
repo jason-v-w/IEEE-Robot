@@ -1,0 +1,5 @@
+This file serves to give credit to those from whom we used code, 3D files, or other information.
+
+Credit to TheCase for the STL files of the body parts
+  site: http://www.thingiverse.com/thing:38159
+  license: https://creativecommons.org/licenses/by/3.0/
