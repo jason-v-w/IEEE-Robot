@@ -4,5 +4,7 @@ Example code for using the servo hat
 	https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code
 Servo Base and Elbow Bracket 3D Models
 	http://www.thingiverse.com/thing:444741/#files
+All Robot parts
+	http://www.thingiverse.com/thing:38159/#files
 Possible leg idea: Use a clamp hor on servo to hold a modular leg.
 	https://images-na.ssl-images-amazon.com/images/I/31SOjbbYU4L.jpg
