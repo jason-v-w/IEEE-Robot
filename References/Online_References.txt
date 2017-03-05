@@ -10,3 +10,6 @@ Possible leg idea: Use a clamp hor on servo to hold a modular leg.
 	https://images-na.ssl-images-amazon.com/images/I/31SOjbbYU4L.jpg
 Raspberry Pi 3D model:
 	https://grabcad.com/library/raspberry-pi-3-reference-design-model-b-rpi-raspberrypi-raspberry-pi-2
+Webcam video usage tutorials:
+	https://www.raspberrypi.org/documentation/usage/webcams/
+	http://www.instructables.com/id/Raspberry-Pi-remote-webcam/?ALLSTEPS
